@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1098197185178",
+    "firebase_url": "https://earthsummit23-default-rtdb.firebaseio.com",
+    "project_id": "earthsummit23",
+    "storage_bucket": "earthsummit23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098197185178:android:05832f4b650d9c61202523",
+        "android_client_info": {
+          "package_name": "com.earthsummit.kct.earthsummit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098197185178-elcinvk1f9rpku14kjb6a9tjdv5fnh85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0D2uREYNUkcEBSPXyhsNZgnCZkBhYKUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098197185178-elcinvk1f9rpku14kjb6a9tjdv5fnh85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098197185178:android:5a33baecf1ee52ef202523",
+        "android_client_info": {
+          "package_name": "kct.earthsummit.org.earth_summit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098197185178-elcinvk1f9rpku14kjb6a9tjdv5fnh85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0D2uREYNUkcEBSPXyhsNZgnCZkBhYKUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098197185178-elcinvk1f9rpku14kjb6a9tjdv5fnh85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
